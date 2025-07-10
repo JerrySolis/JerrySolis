@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @JerrySolis
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development / Asp.net core MVC
-- 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me 
+-  Hi, I’m @JerrySolis
+-  I’m interested in programming
+-  My technology stack are as follows
+-  Asp.net core MVC, EF Core
+-  C#, Javascript, Angular Js, Java
+-  HTML5, CSS3, Bootstrap, JQuery
+-  Unity Engine, Git 
 
-<!---
-JerrySolis/JerrySolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
