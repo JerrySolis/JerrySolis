@@ -50,7 +50,6 @@ _Responsibilities included:_
 -   **Developed** Angular services to communicate with the ASP.NET Core backend via HTTP requests.
 -   **Implemented** client-side routing to create a seamless single-page application (SPA) experience.
 -   **Utilized** Angular's Reactive Forms to build a robust booking form with client-side validation.
--   
 ## ✍️ What I’m Learning Now
 
 - I enjoy exploring Technology: Angular, Azure DevOps, C#, TypeScript, Java, Net Core, Microsoft SQL
