@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jerry Solis
 
-I'm a passionate full-stack developer and game creator from [Location] who thrives on turning ideas into scalable solutions and immersive digital experiences.
+I'm a passionate full-stack developer and game developer who thrives on turning ideas into scalable solutions and immersive digital experiences.
 
 ## 🧰 Tech Stack
 
