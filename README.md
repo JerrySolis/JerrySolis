@@ -39,7 +39,7 @@ Developed a web application built for a construction company to showcase their p
 This project demonstrates a modern architecture using ASP.NET Core for the backend API and Angular for the client-side UI..
 
 _Responsibilities included:_
-**Backend Development**
+
 -   **Designed** the database schema and created the data models using Entity Framework Core.
 -   **Developed** RESTful API endpoints with ASP.NET Core to handle all CRUD (Create, Read, Update, Delete) operations for projects and appointments.
 -   **Implemented** business logic for filtering portfolio projects on the server side.
